@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.save
+.env.local
+*.bak
+test-output.wav
+npm-debug.log*
